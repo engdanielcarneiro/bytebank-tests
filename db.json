@@ -1,6 +1,6 @@
 {
   "conta": {
-    "saldo": 1000
+    "saldo": 955
   },
   "transacoes": [
     {
@@ -14,6 +14,216 @@
       "valor": "20",
       "data": "26/09/2020",
       "id": 2
+    },
+    {
+      "transacao": "deposito",
+      "valor": "10,00",
+      "data": "18/03/2022",
+      "id": 3
+    },
+    {
+      "transacao": "saque",
+      "valor": "10,00",
+      "data": "18/03/2022",
+      "id": 4
+    },
+    {
+      "transacao": "saque",
+      "valor": "10,00",
+      "data": "18/03/2022",
+      "id": 5
+    },
+    {
+      "transacao": "saque",
+      "valor": "10,00",
+      "data": "18/03/2022",
+      "id": 6
+    },
+    {
+      "transacao": "saque",
+      "valor": "5",
+      "data": "18/03/2022",
+      "id": 7
+    },
+    {
+      "transacao": "saque",
+      "valor": "1000",
+      "data": "18/03/2022",
+      "id": 8
+    },
+    {
+      "transacao": "deposito",
+      "valor": "1000",
+      "data": "18/03/2022",
+      "id": 9
+    },
+    {
+      "transacao": "saque",
+      "valor": "1000",
+      "data": "18/03/2022",
+      "id": 10
+    },
+    {
+      "transacao": "saque",
+      "valor": "1000",
+      "data": "18/03/2022",
+      "id": 11
+    },
+    {
+      "transacao": "deposito",
+      "valor": "1000",
+      "data": "18/03/2022",
+      "id": 12
+    },
+    {
+      "transacao": "deposito",
+      "valor": "1000",
+      "data": "18/03/2022",
+      "id": 13
+    },
+    {
+      "transacao": "deposito",
+      "valor": "1000",
+      "data": "18/03/2022",
+      "id": 14
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "18/03/2022",
+      "id": 15
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "18/03/2022",
+      "id": 16
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "18/03/2022",
+      "id": 17
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "18/03/2022",
+      "id": 18
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "18/03/2022",
+      "id": 19
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "18/03/2022",
+      "id": 20
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "18/03/2022",
+      "id": 21
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "18/03/2022",
+      "id": 22
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "18/03/2022",
+      "id": 23
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "18/03/2022",
+      "id": 24
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "18/03/2022",
+      "id": 25
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "18/03/2022",
+      "id": 26
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "18/03/2022",
+      "id": 27
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "18/03/2022",
+      "id": 28
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "18/03/2022",
+      "id": 29
+    },
+    {
+      "transacao": "saque",
+      "valor": "5",
+      "data": "18/03/2022",
+      "id": 30
+    },
+    {
+      "transacao": "saque",
+      "valor": "5",
+      "data": "18/03/2022",
+      "id": 31
+    },
+    {
+      "transacao": "saque",
+      "valor": "5",
+      "data": "18/03/2022",
+      "id": 32
+    },
+    {
+      "transacao": "saque",
+      "valor": "5",
+      "data": "18/03/2022",
+      "id": 33
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "18/03/2022",
+      "id": 34
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "18/03/2022",
+      "id": 35
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "18/03/2022",
+      "id": 36
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "18/03/2022",
+      "id": 37
     }
   ]
 }
