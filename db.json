@@ -1,6 +1,6 @@
 {
   "conta": {
-    "saldo": 955
+    "saldo": 164
   },
   "transacoes": [
     {
@@ -224,6 +224,108 @@
       "valor": "10",
       "data": "18/03/2022",
       "id": 37
+    },
+    {
+      "transacao": "",
+      "valor": 0,
+      "data": "19/03/2022",
+      "id": 38
+    },
+    {
+      "transacao": "",
+      "valor": 0,
+      "data": "19/03/2022",
+      "id": 39
+    },
+    {
+      "transacao": "deposito",
+      "valor": 0,
+      "data": "19/03/2022",
+      "id": 40
+    },
+    {
+      "transacao": "deposito",
+      "valor": 0,
+      "data": "19/03/2022",
+      "id": 41
+    },
+    {
+      "transacao": "deposito",
+      "valor": "1",
+      "data": "19/03/2022",
+      "id": 42
+    },
+    {
+      "transacao": "deposito",
+      "valor": "",
+      "data": "19/03/2022",
+      "id": 43
+    },
+    {
+      "transacao": "deposito",
+      "valor": "0",
+      "data": "19/03/2022",
+      "id": 44
+    },
+    {
+      "transacao": "deposito",
+      "valor": "41",
+      "data": "19/03/2022",
+      "id": 45
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "19/03/2022",
+      "id": 46
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "19/03/2022",
+      "id": 47
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "19/03/2022",
+      "id": 48
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "19/03/2022",
+      "id": 49
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "19/03/2022",
+      "id": 50
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "19/03/2022",
+      "id": 51
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "19/03/2022",
+      "id": 52
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "19/03/2022",
+      "id": 53
+    },
+    {
+      "transacao": "deposito",
+      "valor": "123",
+      "data": "19/03/2022",
+      "id": 54
     }
   ]
 }
